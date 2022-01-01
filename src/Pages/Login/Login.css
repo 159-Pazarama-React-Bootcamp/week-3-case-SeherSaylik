@@ -1,4 +1,4 @@
-.App{
+.Login-Page{
   position: relative;
   width: 1720px;
   height: 700px;
@@ -7,4 +7,23 @@
 .image-avatar-vespa{
   max-width: 100%;
   max-height: 100%;
+}
+.white-full-container{
+  position:fixed;
+  width: 1100px;
+  height: 100%;
+  left: 212px;
+  top: 115px;
+  
+  filter: drop-shadow(0px 4px 70px rgba(0, 0, 0, 0.1));
+}
+.white-container-left-part{
+  position: fixed;
+width: 100%;
+height: 100%;
+left: calc(50% - 1366px/2 - 65px);
+top: calc(50% - 849px/2 - 0.5px);
+
+background: #FFFFFF;
+border-radius: 40px;
 }
