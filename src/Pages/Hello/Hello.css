@@ -1,0 +1,66 @@
+.Hello-App{
+    position: relative;
+    width: 1066px;
+    height: 708px;
+}
+
+.hello-text-and-button-box{
+    position: absolute;
+    width: 530px;
+    height: 587px;
+    left: 50px;
+    top: 90px;
+}
+.arrow-vector-to-button{
+    margin-left: 286px;
+    margin-top: 380.62px;
+
+}
+.hello-emoji{
+    margin-left: 120px
+}
+.hello-title, .hello-emoji{
+    position: absolute;
+    width: 182px;
+    left: 50px;
+    top: 40px;
+    font-size: 47.7488px;
+
+}
+.hello-title{
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 58px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+
+}
+.hello-text{
+    position: absolute;
+    width: 530px;
+    left: 50px;
+    top: 183px;
+}
+
+.buy-me-coffee-button{ 
+    background: linear-gradient(0deg, #EA5050 0%, #EE745B 100%);
+    width: 530px;
+    height: 90px;
+    left: 50px;
+    top: 587px;
+    border-radius: 100px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.all-vectors-box{
+position: fixed;
+width: 944px;
+height: 546px;
+left: 781px;
+top: 111px;
+}
